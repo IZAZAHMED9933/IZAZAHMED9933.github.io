@@ -1,0 +1,46 @@
+@charset "utf-8";
+/* CSS Document */
+body {
+	background:#963;
+	}
+#one {
+	display:block;
+	background:#FFF;
+	height:100px;
+	width:200px;
+	position:absolute;
+	top:40%;
+	left:20%;
+	border:1px solid blue;
+	-webkit-border-radius:25px;
+	-webkit-box-shadow:rgb(110,110,110) 8px 8px;
+	}
+#two {
+	display:block;
+	background:#FFF;
+	height:100px;
+	width:200px;
+	position:absolute;
+	top:40%;
+	left:40%;
+	border:1px solid blue;
+	-webkit-border-radius:25px;
+	-webkit-box-shadow:rgb(110,110,110) 8px 8px;
+	}
+#three {
+	display:block;
+	background:#FFF;
+	height:100px;
+	width:200px;
+	position:absolute;
+	top:40%;
+	left:60%;
+	border:1px solid blue;
+	-webkit-border-radius:25px;
+	-webkit-box-shadow:rgb(110,110,110) 8px 8px;
+	}
+p {
+	color:#F00;
+	text-align:center;
+	font-size:36px;
+	}
